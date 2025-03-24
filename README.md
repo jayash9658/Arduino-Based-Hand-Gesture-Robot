@@ -13,4 +13,3 @@ This project is a hand gesture-controlled robot featuring a rover module and a c
 
 This project demonstrates expertise in **embedded systems, wireless communication, and robotics**. 🚀  
 
-Would you like me to add any specific sections like setup instructions, code snippets, or a demo video link?
